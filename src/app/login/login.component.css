@@ -1,0 +1,31 @@
+form{
+    width: 25%;
+}
+.aa{
+margin-left:1000px;
+/* /* position: relative;
+top: 100px;
+left: 450px; */
+box-shadow: 0 0 3px 0 rgb(0,0,0,0.3);
+margin-left: 500px;
+padding: 10px;
+border: 2px solid rgb(231, 220, 220);
+text-align:center;width: 100%;
+margin-top: 100px;
+}
+@media (max-width:1000px){
+    .aa{
+        margin-left: 100px;
+    }
+}
+
+.inputbox{
+    border-radius: 10px;
+    border: 2px solid rgb(234, 234, 234);
+    outline:none;
+    overflow: hidden;
+    font-size:15px ;
+    margin-left:-10px ;
+    padding: 1px auto;
+
+}
